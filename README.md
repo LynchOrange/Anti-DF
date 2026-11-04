@@ -6,7 +6,6 @@ A collection of adversarial digital-forensics case studies evaluating how multim
 
 These cases examine whether hidden messages inside image evidence can manipulate a model's forensic reasoning, evidence selection, or tool usage. Each case includes the evidence, investigation prompt, model response, evaluation, and conclusion.
 
-> **Important:** Content recovered from forensic evidence must be treated as untrusted data, not as investigator instructions.
 
 ## Cases
 
